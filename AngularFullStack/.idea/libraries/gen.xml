@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="gen">
+    <CLASSES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/gen" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/google-app-engine/google-app-engine-yaml/src" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/google-app-engine/src" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/plan9/gen" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/plan9/src" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/plan9/tests" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/src" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/tests" />
+      <root url="file://$PROJECT_DIR$/../Golang/Go Code/Setup/go-lang-idea-plugin-master/utils/src" />
+    </SOURCES>
+  </library>
+</component>
